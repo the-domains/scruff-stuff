@@ -1,0 +1,23 @@
+name: Scruff Stuff
+favicon: null
+layout_spectrum: 0.14186075306497514
+typography_spectrum: 0.7407250935211778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5555257704108953
+  lightness: 0.6374341826885939
+  saturation: 0.8940154735464603
+  rhythmicContrast: 0.9504962067585438
+purpose: []
