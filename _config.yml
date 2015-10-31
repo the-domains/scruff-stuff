@@ -1,7 +1,7 @@
 name: Scruff Stuff
 favicon: null
-layout_spectrum: 0.14186075306497514
-typography_spectrum: 0.7407250935211778
+layout_spectrum: 0.25207
+typography_spectrum: 0.74819
 title: Scruff Stuff Beard Oil
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2e2334'
-    - '#f2e9e2'
-    - '#51414b'
-    - '#745e60'
-    - '#9c9497'
+    - '#dedddb'
+    - '#80766c'
+    - '#191013'
+    - '#3c3731'
+    - '#f0d17f'
   brandStrength: 0.5
-  lightness: 0.6374341826885939
-  saturation: 0.8940154735464603
-  rhythmicContrast: 0.9504962067585438
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
